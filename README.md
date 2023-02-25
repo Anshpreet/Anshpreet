@@ -4,6 +4,7 @@
 - 😄 Pronouns: She/her
 - 📫 Reach me: Twitter: @anshpreet_kaur
 - ⚡ Fun Fact: I am a Volleyball Player 🏐 & addicted to Netflix.
+- 💼 LinkedIn : https://www.linkedin.com/in/anshpreet-kaur-siddhu-7b9860172/
 
 <!---
 Anshpreet/Anshpreet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
