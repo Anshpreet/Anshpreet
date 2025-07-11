@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anshpreet
-- 🌱 Full Stack Developer
+- 🌱 Full Stack .NET Developer
 - 😄 Pronouns: She/her
 - 📚 Exploring Azure DevOps  and Big Data Solutions
 - 💼 LinkedIn : https://www.linkedin.com/in/anshpreet-kaur-siddhu-7b9860172/
